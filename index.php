@@ -3,7 +3,6 @@
   $key = "IP";
   $options = "include-audio-link=false&";
   $options .= "include-short-copyright=false&";
-  $options .= "output-format=plain-text&";
   $options .= "include-passage-horizontal-lines=false&";
   $options .= "include-verse-numbers=false&";
   $options .= "include-short-copyright=false&";
