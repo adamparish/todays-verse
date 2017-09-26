@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is a simple HTTP Google Assistant webhook listner. This script will listen for input from the Today's Verse Google Action, retrieve Today's Verse using the ESV Bible Web Service API, and return the text result back to Today's Verse on Google Action.
+This is a simple HTTP Google Assistant webhook listener. This script will listen for input from the Today's Verse Google Action, retrieve Today's Verse using the ESV Bible Web Service API, and return the text result back to Today's Verse on Google Action.
 
 ## Motivation
 
