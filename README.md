@@ -1,3 +1,5 @@
+## This Project is no longer being maintained because of changes to the ESV API /Adam
+
 ## Synopsis
 
 This is a simple HTTP Google Assistant webhook listener. This script will listen for input from the Today's Verse Google Action, retrieve Today's Verse using the ESV Bible Web Service API, and return the text result back to Today's Verse on Google Action.
